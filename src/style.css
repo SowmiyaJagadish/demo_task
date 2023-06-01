@@ -1,0 +1,79 @@
+header{
+    margin: auto;
+    width:950px;
+    height:45px;
+    background-color: aquamarine;
+    padding: 20px;
+    text-align: center;
+}
+header nav ul li{
+    display: inline;
+    color: purple;
+
+}
+.slider{
+    margin: auto;
+    width: 950px;
+    height: 250px;
+    padding: 20px;
+    background-color: cornflowerblue;
+}
+.bOne{
+    margin: auto;
+    width: 950px;
+    /*padding: 20px;*/
+    background-color: white;
+}
+.pOne{
+    width: 455px;
+    padding: 10px;
+    float: left;
+}
+.pTwo{
+    width: 455px;
+    padding: 10px;
+    float: left;
+}
+.bTwo{
+    margin: auto;
+    width: 950px;
+    /*padding: 20px;
+    background-color: white;*/
+}
+.boxOne{
+    width: 300px;
+    height: 150px;
+    padding: 5px;
+    background-color: aliceblue;
+    float: left;
+   /* margin-left: 4px;*/
+    margin-bottom: 10px;
+
+}
+.boxTwo{
+    width: 300px;
+    height: 150px;
+    padding: 5px;
+    background-color:blanchedalmond;
+    float: left;
+    margin-left: 4px;
+    margin-bottom: 10px;
+    
+}
+.boxThree{
+    width: 300px;
+    height: 150px;
+    padding: 5px;
+    background-color: cadetblue;
+    float: left;
+    margin-left: 4px;
+    margin-bottom: 10px;
+    
+}
+footer{
+    width: 950px;
+    height: 100px;
+    background-color: yellowgreen;
+    padding: 20px;
+    margin: auto;
+}

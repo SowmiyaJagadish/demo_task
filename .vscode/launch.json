@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "http://demo_task",
+            "request": "launch",
+            "url": "http://demo_task"
+        }
+    ]
+}
